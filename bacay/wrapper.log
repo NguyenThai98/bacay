@@ -1,0 +1,6 @@
+********************************************************************************
+* This is a Java Service Wrapper failover log file.
+*  Was unable to write to ./log/wrapper/hischool.20190816.log.
+********************************************************************************
+
+2019/08/16 07:58:43 | JVM did not exit on request, termination requested.
